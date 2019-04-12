@@ -3,7 +3,7 @@
 	</head>
 	<body>
 
-		<h1>EDUARDO/BRUNO</h1>
+		<h1>EDUARDO/BRUNO/BRUNO</h1>
 		<h1>Luis Felipe/TESTE</h1>
 	</body>
 </html>
